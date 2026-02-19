@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Foreign",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-02-19T17:33:06.134710Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Demons (feat. Fivio Foreign & Sosa Geek)",
+      "artist": "Drake feat. Fivio Foreign & Sosa Geek",
+      "has_synced": true,
+      "path": "select/01_Demons_(feat._Fivio_Foreign_&_Sosa_Geek)_Drake_feat._Fivio_Foreign_&_Sosa_Geek.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Demons (feat. Fivio Foreign & Sosa Geek)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/02_Demons_(feat._Fivio_Foreign_&_Sosa_Geek)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shoot for the Stars (feat. Fivio Foreign)",
+      "artist": "Lil Tjay",
+      "has_synced": false,
+      "path": "select/03_Shoot_for_the_Stars_(feat._Fivio_Foreign)_Lil_Tjay.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/04_Zoo_York_(feat._Fivio_Foreign_&_Pop_Smoke)_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Foreign Friend",
+      "artist": "M.I.A. feat. Dexta Daps",
+      "has_synced": true,
+      "path": "select/05_Foreign_Friend_M.I.A._feat._Dexta_Daps.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Foreign Friend (feat. Dexta Daps)",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/06_Foreign_Friend_(feat._Dexta_Daps)_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Foreign Policy",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/07_Foreign_Policy_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Foreign Eyes",
+      "artist": "Drab Majesty",
+      "has_synced": true,
+      "path": "select/08_Foreign_Eyes_Drab_Majesty.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "murda one (feat. Fivio Foreign)",
+      "artist": "Roddy Ricch",
+      "has_synced": false,
+      "path": "select/09_murda_one_(feat._Fivio_Foreign)_Roddy_Ricch.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Still Catching Cases (feat. Fivio Foreign & Rowdy Rebel)",
+      "artist": "42 Dugg feat. Fivio Foreign & Rowdy Rebel",
+      "has_synced": true,
+      "path": "select/10_Still_Catching_Cases_(feat._Fivio_Foreign_&_Rowdy_Rebel)_42_Dugg_feat._Fivio_Foreign_&_Rowdy_Rebel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Foreign Nights (Working Dog In Babylon)",
+      "artist": "Johnny Clegg & Savuka",
+      "has_synced": false,
+      "path": "select/11_Foreign_Nights_(Working_Dog_In_Babylon)_Johnny_Clegg_&_Savuka.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Foreign Nights (Working Dog in Babylon)",
+      "artist": "Johnny Clegg and Savuka",
+      "has_synced": false,
+      "path": "select/12_Foreign_Nights_(Working_Dog_in_Babylon)_Johnny_Clegg_and_Savuka.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aussie Freaks (feat. ONEFOUR & Fivio Foreign)",
+      "artist": "A$AP Ferg feat. ONEFOUR & Fivio Foreign",
+      "has_synced": true,
+      "path": "select/13_Aussie_Freaks_(feat._ONEFOUR_&_Fivio_Foreign)_A$AP_Ferg_feat._ONEFOUR_&_Fivio_Foreign.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aussie Freaks (feat. Onefour & Fivio Foreign)",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/14_Aussie_Freaks_(feat._Onefour_&_Fivio_Foreign)_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Motivation Foreign (Skit)",
+      "artist": "A$AP Mob",
+      "has_synced": true,
+      "path": "select/15_Motivation_Foreign_(Skit)_A$AP_Mob.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Scatta - feat. Foreign Beggars & Bare Noize",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/16_Scatta_-_feat._Foreign_Beggars_&_Bare_Noize_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Scatta (feat. Foreign Beggars & Bare Noize)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/17_Scatta_(feat._Foreign_Beggars_&_Bare_Noize)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Still Gettin' It (Foreign Beggars feat. Skrillex)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/18_Still_Gettin'_It_(Foreign_Beggars_feat._Skrillex)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Foreign Country",
+      "artist": "The Concretes",
+      "has_synced": true,
+      "path": "select/19_Foreign_Country_The_Concretes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Foreign",
+      "artist": "BAD HOP, YZERR, Tiji Jojo",
+      "has_synced": false,
+      "path": "select/pl_01_Foreign_BAD_HOP,_YZERR,_Tiji_Jojo.txt"
+    }
+  ]
+}
